@@ -1,6 +1,8 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
+print("heloo")
+
 
 X = np.array([1, 2, 3, 4, 5, 6, 7, 8, 9], dtype=float)
 y = np.array([35, 45, 50, 55, 60, 70, 75, 80, 85], dtype=float)
